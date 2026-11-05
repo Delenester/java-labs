@@ -1,0 +1,28 @@
+# Скомпилированные файлы и результат сборки
+*.class
+*.jar
+*.war
+*.ear
+target/
+out/
+build/
+
+# Файлы IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+
+# Файлы ОС
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.bak
